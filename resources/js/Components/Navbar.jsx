@@ -23,7 +23,7 @@ const Navbar = () => {
                         <img
                             src={logo}
                             alt="Top Faith Logo"
-                            style={{ marginRight: "10px", height: "80px" }}
+                            style={{ marginRight: "10px", height: "100px" }}
                         />
                     </Link>
                 </Typography>

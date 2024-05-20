@@ -78,8 +78,12 @@ const Footer = () => {
                         </Typography>
                     </Grid>
                 </Grid>
-                <Typography textAlign="center" fontSize={16} mt={5}>
-                    Copyright IHTechno Co.,Ltd 2024
+                <Typography
+                    textAlign="center"
+                    fontSize={{ xs: 14, sm: 16 }}
+                    mt={5}
+                >
+                    Copyright &copy; 2024 IHTechno Co.,Ltd
                 </Typography>
             </Container>
         </Box>

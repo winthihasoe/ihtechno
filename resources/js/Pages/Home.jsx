@@ -21,11 +21,18 @@ import DesigningFrontend from "@/Components/DesigningFrontend";
 import DesigningBackend from "@/Components/DesigningBackend";
 import IOSDevelopment from "@/Components/IOSDevelopment";
 import AndroidDevelopment from "@/Components/AndroidDevelopment";
+import SEO from "@/Components/SEO";
 
 const Home = () => {
     return (
         <AppLayout>
-            <Head title="Home" />
+            <SEO
+                title="Home | IHTechno"
+                description="At IHTechno, we specialize in crafting high-quality websites, Android apps, and iOS apps."
+                keywords="web development, Android apps, iOS apps, IHTechno"
+            />
+
+            <Head title="Web solution" />
             <Hero />
             <Container maxWidth="lg">
                 <Services />

@@ -61,8 +61,8 @@ const Services = () => {
                             />
                             <CardContent>
                                 <Typography
-                                    fontSize={25}
-                                    fontWeight="bold"
+                                    fontSize={22}
+                                    fontWeight={400}
                                     component="h3"
                                     align="center"
                                 >
