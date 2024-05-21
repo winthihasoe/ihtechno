@@ -32,7 +32,7 @@ const Navbar = () => {
                     Services
                 </Button>
                 <Button color="inherit" component={Link} href="#about">
-                    About Us
+                    About
                 </Button>
             </Toolbar>
         </AppBar>
