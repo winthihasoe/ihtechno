@@ -46,13 +46,13 @@ const Hero = () => {
                                 component="h1"
                                 gutterBottom
                             >
-                                At our core, we believe in simplifying the
-                                complexities of the digital world. Our goal is
-                                to design and develop user-friendly web
-                                solutions that make life easier for our clients.
-                                By focusing on intuitive interfaces and seamless
-                                functionality, we ensure that users can navigate
-                                and use our products effortlessly.
+                                We believe in simplifying the complexities of
+                                the digital world. Our goal is to design and
+                                develop user-friendly web solutions that make
+                                life easier for our clients. By focusing on
+                                intuitive interfaces and seamless functionality,
+                                we ensure that users can navigate and use our
+                                products effortlessly.
                             </Typography>
                             <Box textAlign="center">
                                 <Button
